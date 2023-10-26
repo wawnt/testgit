@@ -5,3 +5,4 @@ git clone <URL_repositori>
 # Masuk ke direktori proyek yang telah dicloning
 cd JavaVersionControlPractice
 nice
+commit
